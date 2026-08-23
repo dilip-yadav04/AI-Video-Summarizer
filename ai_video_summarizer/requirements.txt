@@ -1,0 +1,7 @@
+gradio
+yt-dlp
+faster-whisper
+transformers
+torch
+reportlab
+ffmpeg-python
